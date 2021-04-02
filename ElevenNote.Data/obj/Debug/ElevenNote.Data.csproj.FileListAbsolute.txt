@@ -14,3 +14,14 @@ C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenN
 C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddedIsStarred.resources
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\RedBadge\ElevenNoteMVC\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
